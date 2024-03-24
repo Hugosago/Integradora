@@ -155,8 +155,7 @@ const sidebarItem: menu[] = [
       }
     ]
   },
- /* Membresias*/
- {
+ /* Membresias
   title: "Membresias",
   icon: ShoppingCartIcon,
   to: "/dashboards/marketing",
@@ -177,7 +176,7 @@ const sidebarItem: menu[] = [
       to: '/dashboards/membresias/miembros'
     }
   ]
-},
+},*/
   //Agregar Modulo EjemploModulo
   {
     title: "Modulo de Ejemplo",

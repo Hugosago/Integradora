@@ -59,7 +59,7 @@ const MainRoutes = {
             path: '/dashboards/marketing/gestion',
             component: () => import('@/views/dashboards/Marketing/Gestion/gestion.vue'),
         },
-        /* Membresias
+        /* Membresias*/
         {
             path: '/dashboards/membresias',
             component: () => import('@/views/dashboards/Marketing/Marketing.vue'),
@@ -75,7 +75,7 @@ const MainRoutes = {
         {
             path: '/dashboards/membresias/miembros',
             component: () => import('@/views/dashboards/Membresias/miembros/miembros.vue'),
-        },*/
+        },
         {
             path: '/dashboards/rhumanos/Compensacion',
             component: () => import('@/views/dashboards/rhumanos/Compensacion/Rhumanos.vue'),
